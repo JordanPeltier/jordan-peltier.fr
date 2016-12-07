@@ -1,2 +1,2 @@
 # jordan-peltier.fr
-Code for jordan-peltier.fr website
+Source ode for https://jordan-peltier.fr website.
